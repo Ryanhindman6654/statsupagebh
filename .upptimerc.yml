@@ -21,7 +21,7 @@ status-website:
   baseUrl: /statsupagebh
   logoUrl: https://media.discordapp.net/attachments/1082728144101965956/1201744840296243332/Artboard_1.png?ex=66024e19&is=65efd919&hm=5f214a97040b0d61f3da11c10ca3f3f3c72908d055a7d83e883bf61c78b7fe78&=&format=webp&quality=lossless&width=725&height=701
   name: Boundless Hosting Status Page
-  introTitle: "Please check this page is your server isnt working before opening a ticket"
+  introTitle: "Please check this page if your server isnt working before opening a ticket"
   introMessage: 
   navbar:
     - title: Status
@@ -29,6 +29,6 @@ status-website:
     - title: Billing Site
       href: https://boundlesshosting.xyz
     - title: Discord
-      href: https://discord.boundlesshosting.xyz
+      href: https://boundlesshosting.xyz/discord
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
