@@ -17,8 +17,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.boundlesshosting.xyz
-  baseUrl: /statsupagebh
+  cname: status.boundlesshosting.xyz
+  #baseUrl: /statsupagebh
   logoUrl: https://media.discordapp.net/attachments/1082728144101965956/1201744840296243332/Artboard_1.png?ex=66024e19&is=65efd919&hm=5f214a97040b0d61f3da11c10ca3f3f3c72908d055a7d83e883bf61c78b7fe78&=&format=webp&quality=lossless&width=725&height=701
   name: Boundless Hosting Status Page
   introTitle: "Please check this page if your server isnt working before opening a ticket"
