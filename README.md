@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.boundlesshosting.xyz)
+[**Visit our status website →**](https://ryanhindman6654.github.io/statsupagebh/)
 
 ## 📄 License
 
