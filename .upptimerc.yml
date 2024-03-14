@@ -14,7 +14,7 @@ sites:
   - name: Tickets
     url: https://tickets.boundlesshosting.xyz
   - name: Status
-    url: https://status.boundlesshosting.xyz
+    url: https://uptime.boundlesshosting.xyz
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
