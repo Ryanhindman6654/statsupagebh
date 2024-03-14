@@ -13,7 +13,7 @@ sites:
     url: https://tickets.boundlesshosting.xyz
   - name: Career Site
     url: https://career.boundlesshosting.xyz
-  - name: test site
+  - name: Test site
     url: https://uptime.boundlesshosting.xyz
 
 status-website:
