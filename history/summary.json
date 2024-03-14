@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/boundlesshosting.xyz.ico",
     "slug": "billing-site",
     "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
-    "time": 648,
-    "timeDay": 648,
-    "timeWeek": 648,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "uptime": "95.12%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
+    "time": 649,
+    "timeDay": 649,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2024-03-14": 66
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -90,25 +90,5 @@
     "timeMonth": 192,
     "timeYear": 192,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test site",
-    "url": "https://uptime.boundlesshosting.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/uptime.boundlesshosting.xyz.ico",
-    "slug": "test-site",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-03-14": 10
-    }
   }
 ]
