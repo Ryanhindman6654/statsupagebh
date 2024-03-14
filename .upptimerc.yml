@@ -13,8 +13,6 @@ sites:
     url: https://tickets.boundlesshosting.xyz
   - name: Career Site
     url: https://career.boundlesshosting.xyz
-  - name: Down Test
-    url: uptime.boundlesshosting.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
