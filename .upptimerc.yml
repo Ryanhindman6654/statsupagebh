@@ -25,7 +25,7 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /statsupagebh
+      href: /
     - title: Billing Site
       href: https://boundlesshosting.xyz
     - title: Discord
