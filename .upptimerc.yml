@@ -15,6 +15,7 @@ sites:
     url: https://career.boundlesshosting.xyz
   - name: Node
     url: https://client1.boundlesshosting.xyz
+    icon: https://cdn3.iconfinder.com/data/icons/network/512/15-512.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
