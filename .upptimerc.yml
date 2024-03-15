@@ -14,8 +14,7 @@ sites:
   - name: Career Site
     url: https://career.boundlesshosting.xyz
   - name: Node
-    check: "tcp-ping"
-    url: 166.0.130.222
+    url: https://client1.boundlesshosting.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
