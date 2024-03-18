@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/boundlesshosting.xyz.ico",
     "slug": "billing-site",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 803,
     "timeDay": 1001,
     "timeWeek": 803,
@@ -78,9 +78,9 @@
     "url": "https://career.boundlesshosting.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/career.boundlesshosting.xyz.ico",
     "slug": "career-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   }
 ]
