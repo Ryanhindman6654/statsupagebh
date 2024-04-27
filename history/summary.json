@@ -4,7 +4,7 @@
     "url": "https://boundlesshosting.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/boundlesshosting.xyz.ico",
     "slug": "billing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 849,
     "timeYear": 823,
     "dailyMinutesDown": {
+      "2024-04-27": 0,
       "2024-03-14": 66
     }
   },
@@ -83,11 +84,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/career.boundlesshosting.xyz.ico",
     "slug": "career-site",
     "status": "up",
-    "uptime": "74.01%",
+    "uptime": "74.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.81%",
-    "uptimeYear": "74.01%",
+    "uptimeYear": "74.27%",
     "time": 312,
     "timeDay": 154,
     "timeWeek": 185,
